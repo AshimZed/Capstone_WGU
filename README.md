@@ -16,8 +16,9 @@ To use the application, please follow these steps:
 > - In the field labeled 'GitHub repository name or URL' input "https://github.com/AshimZed/Capstone_WGU". 
 > - Click the 'launch' button. Wait for the new page to load, which will instantiate a Jupyter environment. 
 > - Upon loading, you'll see the Jupyter logo at the top left and a file browser listing all the available files. 
-> - Open Fight_Interest.ipynb by clicking on it. This action will load the Jupyter notebook containing the application's source code. 
-> - Once the notebook is open, locate the 'Run' button on the toolbar. 
+> - Open Fight_Interest.ipynb by double-clicking on it from the sidebar. This action will load the Jupyter notebook containing the application's source code. 
+> - Once the notebook is open, run the very first cell at the top.
+> - Once the cell has run, select the refresh icon to restart the kernel.
 > - Click the 'Run' button to execute the code cells in the notebook sequentially. Alternatively, you can use 'Cell' > 'Run All' from the menu to execute all cells at once. 
 > - After running all cells, scroll to the bottom of the notebook to access the interactive model.
 
